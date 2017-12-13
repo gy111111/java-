@@ -1,0 +1,4 @@
+null pointer problem:
+  1.null pointer可以用来赋值：private static Node head=null;
+  2.null pointer可以用来比较：if(head==null)
+  3.to be continued
